@@ -1,0 +1,8 @@
+{
+  "name": "KnowKidDraw - AI Art Gallery",
+  "description": "An interactive AI art sharing views for kids' drawings. Upload a piece of artwork, ask questions, and get encouraging and fun feedback from a friendly AI assistant.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
